@@ -12,7 +12,7 @@ ms.service="service-name"
 ms.devlang="NA"
 ms.custom: "NA"
 ms.topic="article or get-started or reference"
-ms.tgt_pltfrm="NA"
+ms.tgt_pltfrm="NA"fgfhgfh
 ms.workload="NA"
 ms.date="mm/dd/yyyy"
 ms.author="MSFT alias;MSFT alias"/>
